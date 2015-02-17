@@ -1,0 +1,18 @@
+/* CSS Styles */
+
+div#container {
+	text-align: center;
+}
+
+
+div#logo {
+	margin-left: auto;
+	margin-right: auto;
+	width 100%;
+}
+
+div#search {
+	display:block;
+	height: 24px;
+	width: 572px;
+}
